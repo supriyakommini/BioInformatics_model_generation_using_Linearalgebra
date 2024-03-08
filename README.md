@@ -12,7 +12,7 @@
 ### 2)  Code.py
 - Ensure you have the required libraries to run this code installed. You can install them using pip, the Python package manager.
 - Copy the code you provided in Code.py file into a Python file.
-- In the 17th line of the code, replace the pdb id 'xxxx' with your desired pdb id whose PDB file was downloaded by runninf the code in PDBDownloader.py file.
+- In the 17th line of the code, replace the pdb id 'xxxx' with your desired pdb id whose PDB file was downloaded by running the code in PDBDownloader.py file.
 - In the 18th line of the code, relace the "path of the pdb file downloaded" with the path of the PDB file that you downloded previously.
 - Run the Python script.
 - The script will read the specified PDB file, extract the coordinates of atoms, visualize them in a 3D plot.
