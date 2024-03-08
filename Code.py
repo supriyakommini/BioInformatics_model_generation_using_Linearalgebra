@@ -14,7 +14,7 @@ def extract_pdb_header(pdb_path):
         print(f"Error: {e}")
         return None
 
-pdb_id = "2LZM"
+pdb_id = "xxxx"
 pdb_filename = f"path of the pdb file downloaded"
 structure = PDB.PDBParser(QUIET=True).get_structure(pdb_id, pdb_filename)
 
