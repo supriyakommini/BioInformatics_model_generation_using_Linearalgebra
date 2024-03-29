@@ -3,7 +3,7 @@
 ### 1)  PDBDownloader.py
 - Make sure you have Python installed on your system. If not, download and install it from the official Python website: https://www.python.org/downloads/
 - Ensure you have the required libraries installed. You can install them using pip, the Python package manager.
-- Copy the code provided in PDBDownloader.py file into a Python file.
+- Copy the code provided in [PDBDownloader.py](https://github.com/supriyakommini/BioInformatics_model_generation_using_Linearalgebra/blob/main/PDBDownloader.py) file into a Python file.
 - In the 45th line of this code, replace the 'xxxx' with your desired pdb id.
 - Run the Python script.
 - After running the script, it will download the PDB file corresponding to the given PDB ID (in this case, 'xxxx') and print its header information.
@@ -11,7 +11,7 @@
 
 ### 2)  Code.py
 - Ensure you have the required libraries to run this code installed. You can install them using pip, the Python package manager.
-- Copy the code you provided in Code.py file into a Python file.
+- Copy the code you provided in [Code.py](https://github.com/supriyakommini/BioInformatics_model_generation_using_Linearalgebra/blob/main/Code.py) file into a Python file.
 - In the 17th line of the code, replace the pdb id 'xxxx' with your desired pdb id whose PDB file was downloaded by running the code in PDBDownloader.py file.
 - In the 18th line of the code, relace the "path of the pdb file downloaded" with the path of the PDB file that you downloded previously.
 - Run the Python script.
@@ -20,12 +20,12 @@
 - You should see a 3D plot window displaying the atoms' coordinates from the PDB file.
 
 ### For Examples:
-1) Refer to the file 'Example set.pdf' to see a few examples with code and output. It containd structures of the following:
+1) Refer to the file [Example set.pdf](https://github.com/supriyakommini/BioInformatics_model_generation_using_Linearalgebra/blob/main/Example%20set.pdf) to see a few examples with code and output. It containd structures of the following:
 - FIBRONIGON -(3GHG)
 -  HYDROLASE  -(1G0A)
 -  LYSOZYME   -(2LZM)
 - RNA        -(1EHZ)
-2) Refer to the PPT.key for theorey related information about how Linear Algebra plays an important role in BioInformatics model generation.
+2) Refer to the [PPT.pdf](https://github.com/supriyakommini/BioInformatics_model_generation_using_Linearalgebra/blob/main/PPT.pdf) for theorey related information about how Linear Algebra plays an important role in BioInformatics model generation.
 
   # Contributors
 K Supriya
