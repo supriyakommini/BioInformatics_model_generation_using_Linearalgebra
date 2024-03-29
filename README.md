@@ -26,3 +26,6 @@
 -  LYSOZYME   -(2LZM)
 - RNA        -(1EHZ)
 2) Refer to the PPT.key for theorey related information about how Linear Algebra plays an important role in BioInformatics model generation.
+
+  # Contributors
+K Supriya
